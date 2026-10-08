@@ -34,7 +34,7 @@ With your own audio:
 python3 extract_features.py --audio your_track.mp3 --out features.json
 python3 conductor.py --features features.json --out edl.json
 python3 mosaic.py --audio your_track.mp3 --target base_footage.mp4 \
-    --lib-a clip_a.mp4 --lib-b clip_b.mp4 --out out.mp4
+    --libs clip_a.mp4 clip_b.mp4 --out out.mp4
 python3 finish_v2.py --in out.mp4 --audio your_track.mp3 --out final.mp4
 ```
 

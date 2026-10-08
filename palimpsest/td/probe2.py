@@ -33,5 +33,5 @@ for name in ['moviefileinTOP', 'audiofileinCHOP']:
     g = globals()
     out.append(name + ' in globals=' + str(name in g))
 
-open(base + '\probe2_report.txt', 'w').write('\n'.join(out))
-open(base + '\PROBE2_DONE', 'w').write('ok')
+open(base + r'\probe2_report.txt', 'w').write('\n'.join(out))
+open(base + r'\PROBE2_DONE', 'w').write('ok')
