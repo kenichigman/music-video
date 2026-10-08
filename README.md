@@ -13,33 +13,29 @@ audio it was built from are not included).
 
 ## What's here
 
-| File | What it does |
-|---|---|
-| `render.py` | Main render pipeline |
-| `extract_features.py` | Audio feature extraction (the heartbeat of the engine) |
-| `conductor.py` | Conducts visuals against the feature stream |
-| `mosaic.py`, `mosh_footage.py`, `mosh_super.py` | Mosaic and datamosh renderers |
-| `datamosh.py` | Datamoshing primitives |
-| `make_test_audio.py` | Synthesizes a test signal (no audio sources needed) |
-| `finish_v2.py` | Final compositing pass |
-| `REPERTOIRE.md` | Index of the visual repertoire + style notes |
-| `reflections/` | Build reflections |
-| `palimpsest/td/` | TouchDesigner bridge (probe scripts, Linux renderer) |
+- `render.py` — main render pipeline
+- `extract_features.py` — audio feature extraction (the engine's heartbeat)
+- `conductor.py` — conducts visuals against the feature stream
+- `mosaic.py`, `mosh_footage.py`, `mosh_super.py`, `datamosh.py` — renderers
+- `make_test_audio.py` — synthesizes a test signal (no audio sources needed)
+- `finish_v2.py` — final compositing pass
+- `REPERTOIRE.md` — visual repertoire index + style notes
+- `reflections/` — build reflections
+- `palimpsest/td/` — TouchDesigner bridge (probe scripts, Linux renderer)
 
 ## Quick-start
 
 ```bash
-python3 make_test_audio.py        # synthesize a test signal -> test_signal.wav
-python3 extract_features.py       # extract the feature stream
-python3 render.py                # render visuals against the features
+python3 make_test_audio.py   # synthesize a test signal -> test_signal.wav
+python3 extract_features.py  # extract the feature stream
+python3 render.py            # render visuals against the features
 ```
 
-## Requirements
-
-Python 3.10+, `numpy`. TouchDesigner scripts in `palimpsest/td/`
-(`probe.py`, `render.py`, `render_fb.py`) run inside TouchDesigner.
+Requirements: Python 3.10+, `numpy`. TouchDesigner scripts in
+`palimpsest/td/` run inside TouchDesigner.
 
 ## What's not here
 
-No source footage or audio — sources are the creative repertoire and stay
-private. `demo.mp4` is the only media artifact: example output, not input.
+No source footage or audio — sources are the creative repertoire and
+stay private. `demo.mp4` is the only media artifact: example output,
+not input.
