@@ -3,7 +3,7 @@
 
 Concept (from the "8,000 squared mosaic" short): the frame is a photomosaic
 of exactly 8,000 tiles (100 cols x 80 rows, 16x16 px tiles -> 1600x1280
-canvas). Each tile is a tiny crop sampled from Gabe's two source clips
+canvas). Each tile is a tiny crop sampled from two source clips
 (predicted.mp4, touched.mp4) plus the combination clip
 (BONES-HDMI-datamosh-displacement.mp4). The mosaic approximates the
 combination clip itself frame-by-frame -- the hidden image IS the video,
@@ -284,7 +284,7 @@ def main():
     ap.add_argument("--target", required=True,
                     help="combination clip (hidden image source)")
     ap.add_argument("--libs", nargs="+", required=True,
-                    help="tile-source clips (Gabe's pieces)")
+                    help="tile-source clips (source clips)")
     ap.add_argument("--out", required=True)
     ap.add_argument("--workdir", default="work_mosaic")
     ap.add_argument("--cols", type=int, default=100)

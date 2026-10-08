@@ -4,7 +4,7 @@
 # Audio analysis (uReveal, uTear) pre-computed from the real score.
 import os
 
-base = 'C:/k3n1/palimpsest'
+base = os.environ.get('PALIMPSEST_BASE', 'C:/palimpsest')
 proj = op('/project1')
 
 def log(msg):

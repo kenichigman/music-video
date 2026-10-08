@@ -156,7 +156,7 @@ Practical note (field-verified, third-party): in a DAT scope, `from td import *`
 
 The docs don't give Movie File Out status channels I can cite. Robust approach: drive the render from a Time COMP with `par.rangelimit = 'hold'` and 240s × fps as the frame range, and quit from a CHOP Execute / DAT script when `absTime.frame >= end` (members `frame`/`seconds` verified on `timeCOMP_Class`). Fallback: monitor `op('movieout').writeCount` / `curSeqIndex` members, which are doc-verified.
 
-## gdesk field notes (2026-09-29, verified live on the box)
+## Field notes (verified live on a Windows TouchDesigner install)
 
 - TD's Movie File In video decoder is broken on this install: MP4 (H.264) and AVI (MJPEG) both show SMPTE color bars; single PNGs load fine. Workaround used for PALIMPSEST v1: Linux numpy renderer with identical shader logic (`td/palimpsest_render_linux.py`).
 - Root has no `play`/`length` pars — timeline control needs a Time COMP (`timeCOMP`, `par.play`, `par.rangelimit='hold'`).

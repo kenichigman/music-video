@@ -41,7 +41,7 @@ PLAN = [
     # 49-63 drop: GitS
     ("sources/gits-dm.mp4", 5, 49, 63, None),
     # 63-78 breakdown, dense vox: B&W hands, rotated to landscape
-    #   (Gabe's HDMI note: rotate hand footage to match the other clips)
+    #   (rotate hand footage to match the other clips)
     ("sources/bw-hands-dm.mp4", 8, 63, 78, "transpose=1"),
     # 78-90 lift: GitS nature, new offset
     ("sources/gits-nature-dm.mp4", 100, 78, 90, None),
@@ -53,13 +53,13 @@ PLAN = [
 
 # resolved at runtime against --srcmap (logical name -> real file)
 SRCMAP = {
-    "sources/anime.mp4": "sources/gabe-anime-2026-09-29.mp4",
-    "sources/gits-nature-dm.mp4": "sources/gabe-gits-nature-datamosh-01.mp4",
-    "sources/october-dream.mp4": "sources/gabe-october-dream-01.mp4",
+    "sources/anime.mp4": "sources/anime-2026-09-29.mp4",
+    "sources/gits-nature-dm.mp4": "sources/gits-nature-datamosh-01.mp4",
+    "sources/october-dream.mp4": "sources/october-dream-01.mp4",
     "sources/conveniencestore-dm.mp4":
-        "sources/gabe-conveniencestore-datamosh-01.mp4",
-    "sources/gits-dm.mp4": "sources/gabe-gits-datamosh-01.mp4",
-    "sources/bw-hands-dm.mp4": "sources/gabe-bw-hands-datamosh-01.mp4",
+        "sources/conveniencestore-datamosh-01.mp4",
+    "sources/gits-dm.mp4": "sources/gits-datamosh-01.mp4",
+    "sources/bw-hands-dm.mp4": "sources/bw-hands-datamosh-01.mp4",
 }
 
 

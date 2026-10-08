@@ -7,7 +7,7 @@
 #   transients     -> tears, displacement, chromatic separation
 import os
 
-base = 'C:/k3n1/palimpsest'
+base = os.environ.get('PALIMPSEST_BASE', 'C:/palimpsest')
 proj = op('/project1')
 
 def log(msg):

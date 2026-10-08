@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GABE-supercut v2 finishing pass: smoothness + color cohesion.
+"""Supercut v2 finishing pass: smoothness + color cohesion.
 
 Input: the approved v1 cut (hard cuts, EDL timing, mosh — untouched).
 Does NOT re-run the mosh. Post-process only:
@@ -15,9 +15,9 @@ Does NOT re-run the mosh. Post-process only:
 3. Global motif grade (subtle, applied to everything): gentle S-curve,
    teal shadows / warm highlights split-tone, slight saturation lift.
 
-Usage: python3 finish_v2.py --in work_super/gabe-supercut.mp4 \
-           --audio sources/gabe-track-2026-09-29.mp3 \
-           --out your_files/music-video-test/GABE-supercut-v2.mp4
+Usage: python3 finish_v2.py --in supercut_v1.mp4 \
+           --audio track.mp3 \
+           --out supercut_v2.mp4
 """
 import argparse
 import os

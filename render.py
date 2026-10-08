@@ -146,7 +146,7 @@ TRAIL = 0.88  # frame feedback blend
 
 def palette(energy, name="classic"):
     """Deep teal/cyan -> magenta -> amber as energy rises (classic);
-    dark teal -> magenta -> purple (glitch, Gabe's palette)."""
+    dark teal -> magenta -> purple (glitch)."""
     if name == "glitch":
         teal = np.array([25.0, 165.0, 160.0])
         mag = np.array([225.0, 45.0, 150.0])

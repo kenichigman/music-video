@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Datamosh-led music video: source footage, mosaic bridges on big shifts.
 
-Pipeline (Gabe's direction 2026-09-29: datamoshing leads, mosaic on big
+Pipeline (datamoshing leads, mosaic on big
 frame shifts, datamoshing smooths it out):
   1. Cut a 102s section from the source footage; conform to 30fps and the
      848x464 tile grid.
