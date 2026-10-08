@@ -11,6 +11,8 @@ driven frame-by-frame by the actual track — never a procedural stand-in.
 `demo.mp4` is a finished render from this pipeline (the input footage and
 audio it was built from are not included).
 
+More output on YouTube: [pipeline render — watch here](https://youtu.be/XUoYSK5PrsI)
+
 ## What's here
 
 - `render.py` — main render pipeline
