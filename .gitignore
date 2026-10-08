@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.key
+*.pem
+*.log
+sources/
+*.wav
+*.mp3
+*.flac
+*.mkv
+*.avi
+*.mov
+*.png
+*.jpg
+!demo.mp4
