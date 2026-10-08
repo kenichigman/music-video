@@ -1,6 +1,6 @@
 # TouchDesigner Scripted-Network Reference (PALIMPSEST)
 
-**Source standard:** `docs.derivative.ca` operator pages + Python class pages, researched 2026-09-29. Third-party sources noted where used. Anything not directly verified on an official page is marked **uncertain**.
+**Source standard:** `docs.derivative.ca` operator pages + Python class pages. Third-party sources noted where used. Anything not directly verified on an official page is marked **uncertain**.
 
 ## The create() rule — verified official
 
