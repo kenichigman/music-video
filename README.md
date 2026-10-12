@@ -4,6 +4,39 @@ Audio-driven generative music-video pipeline. Every visual decision is driven
 frame-by-frame by the actual audio track's feature stream — never a procedural
 stand-in.
 
+## End-to-end: vocals + backtrack → mastered mix → visuals
+
+The full pipeline this repo supports, from raw stems to finished video:
+
+**1. Mashup (vocal over beat)**
+- Estimate both tempos (local beat tracking); time-stretch the vocal to the
+  beat's BPM (rubberband, transients preserved). Trim leading silence.
+- Build the beat's downbeat grid from first onset; drop the vocal after a
+  short intro, on a downbeat.
+- Fine-align with spectral-flux cross-correlation over ±1 beat, then
+  tiebreak candidate nudges by *pulse clarity* — autocorrelation energy at
+  the beat lag on a 60s test mix. Clarity beats raw correlation: the pocket
+  that reinforces the groove wins.
+- Vocal chain: high-pass → compression → light tonal EQ. Keep it clean
+  unless FX are explicitly requested.
+- Check for mid-track pauses; if a vocal re-entry lands off-grid, split in
+  the silence and shift the tail so it hits the beat.
+- Sidechain-duck the beat under vocals; balance levels; master with peak
+  verified ≤ −1.0 dBFS. Version every render (`*_vN`); never overwrite.
+
+**2. Visuals (this repo's core)**
+- Slice the mastered mix into thematic sections (intro / verses / outro).
+- Per section: pick footage matching the section's energy, write an EDL
+  (`chaos_scale` per second — calm passages breathe, peaks mosh hard).
+- `mosh_footage.py` cuts the section, builds mosaic bridges at hard cuts,
+  encodes long-GOP, then performs audio-driven IDR-transplant datamosh:
+  high spectral-drive windows smear predictively, low windows keep anchors.
+- Concat the sections; the mix is already muxed per section.
+
+**Design principle:** narrative → abstraction. Recognizable footage in quiet
+passages; let the datamosh take over on peaks. The audio's dynamics envelope
+conducts the whole edit.
+
 ## How it works
 
 1. **Extract features** — `extract_features.py` analyzes the audio (beats,
