@@ -57,3 +57,23 @@ shader logic for headless batch rendering.
 ## What's not here
 
 No source footage or audio — only the code and one finished render.
+
+## DJ workflow: multi-section music videos
+
+For a full-length track, split it into thematic sections and run
+`mosh_footage.py` per section with its own footage, audio slice, and EDL:
+
+```bash
+# slice the track
+ffmpeg -i track.wav -ss 0 -t 42 -c copy sec1.wav
+ffmpeg -i track.wav -ss 42 -t 168 -c copy sec2.wav
+# ...
+# per-section EDL (chaos_scale per second; see conductor.py schema)
+python3 mosh_footage.py --footage clouds.mp4 --audio sec1.wav \
+    --edl edl1.json --out sec1_out.mp4 --dur 42 --workdir w1
+# concat
+printf "file 'sec1_out.mp4'\nfile 'sec2_out.mp4'\n" > concat.txt
+ffmpeg -f concat -safe 0 -i concat.txt -c copy final.mp4
+```
+
+See `SOURCING_PROTOCOL.md` for the clip-sourcing workflow.
