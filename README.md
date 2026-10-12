@@ -23,6 +23,8 @@ The full pipeline this repo supports, from raw stems to finished video:
   the silence and shift the tail so it hits the beat.
 - Sidechain-duck the beat under vocals; balance levels; master with peak
   verified ≤ −1.0 dBFS. Version every render (`*_vN`); never overwrite.
+- Reference implementation: `mashup.py --vocal acapella.mp3 --beat beat.mp3
+  --vocal-bpm 97 --beat-bpm 103 --out mix.wav`
 
 **2. Visuals (this repo's core)**
 - Slice the mastered mix into thematic sections (intro / verses / outro).
