@@ -9,8 +9,9 @@ stand-in.
 The full pipeline this repo supports, from raw stems to finished video:
 
 **1. Mashup (vocal over beat)**
-- Estimate both tempos (local beat tracking); time-stretch the vocal to the
-  beat's BPM (rubberband, transients preserved). Trim leading silence.
+- Estimate both tempos (by ear or beat-tracking tool); pass to `mashup.py`
+  as `--vocal-bpm` / `--beat-bpm`. Time-stretch the vocal to the beat's BPM
+  (rubberband, transients preserved). Trim leading silence.
 - Build the beat's downbeat grid from first onset; drop the vocal after a
   short intro, on a downbeat.
 - Fine-align with spectral-flux cross-correlation over ±1 beat, then
@@ -19,12 +20,15 @@ The full pipeline this repo supports, from raw stems to finished video:
   that reinforces the groove wins.
 - Vocal chain: high-pass → compression → light tonal EQ. Keep it clean
   unless FX are explicitly requested.
-- Check for mid-track pauses; if a vocal re-entry lands off-grid, split in
-  the silence and shift the tail so it hits the beat.
+- Manual check: scan for mid-track pauses; if a vocal re-entry lands
+  off-grid, split in the silence and shift the tail so it hits the beat.
 - Sidechain-duck the beat under vocals; balance levels; master with peak
   verified ≤ −1.0 dBFS. Version every render (`*_vN`); never overwrite.
 - Reference implementation: `mashup.py --vocal acapella.mp3 --beat beat.mp3
   --vocal-bpm 97 --beat-bpm 103 --out mix.wav`
+- Guiding rule: the ear is the final arbiter. Metrics guide; listening
+  decides. Never defend a render against "it sounds off" — diagnose the
+  named timestamp.
 
 **2. Visuals (this repo's core)**
 - Slice the mastered mix into thematic sections (intro / verses / outro).
