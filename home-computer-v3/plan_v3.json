@@ -1,0 +1,1922 @@
+{
+ "rows": [
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 13,
+   "start": 0,
+   "end": 6,
+   "pre": null,
+   "kind": "reuse_v2_sec"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 24,
+   "start": 6,
+   "end": 30,
+   "pre": null,
+   "kind": "reuse_v2_sec"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 120,
+   "start": 30,
+   "end": 32,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 14,
+   "start": 32,
+   "end": 34,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 124,
+   "start": 34,
+   "end": 36,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 1,
+   "start": 36,
+   "end": 38,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 128,
+   "start": 38,
+   "end": 40,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 34,
+   "start": 40,
+   "end": 42,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 132,
+   "start": 42,
+   "end": 44,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 6,
+   "start": 44,
+   "end": 46,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 136,
+   "start": 46,
+   "end": 48,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 115,
+   "start": 48,
+   "end": 50,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 140,
+   "start": 50,
+   "end": 52,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 210,
+   "start": 52,
+   "end": 54,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 144,
+   "start": 54,
+   "end": 56,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 27,
+   "start": 56,
+   "end": 58,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 148,
+   "start": 58,
+   "end": 60,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 49,
+   "start": 60,
+   "end": 62,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 152,
+   "start": 62,
+   "end": 64,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 183,
+   "start": 64,
+   "end": 66,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 156,
+   "start": 66,
+   "end": 68,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 21,
+   "start": 68,
+   "end": 70,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 160,
+   "start": 70,
+   "end": 73,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 200,
+   "start": 73,
+   "end": 75,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 165,
+   "start": 75,
+   "end": 77,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 59,
+   "start": 77,
+   "end": 79,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 169,
+   "start": 79,
+   "end": 81,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 89,
+   "start": 81,
+   "end": 83,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 173,
+   "start": 83,
+   "end": 85,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 82,
+   "start": 85,
+   "end": 87,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 177,
+   "start": 87,
+   "end": 89,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 7,
+   "start": 89,
+   "end": 91,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 181,
+   "start": 91,
+   "end": 94,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 8,
+   "start": 94,
+   "end": 96,
+   "pre": "transpose=1",
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 56,
+   "start": 96,
+   "end": 98,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 12,
+   "start": 98,
+   "end": 100,
+   "pre": "transpose=1",
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 36,
+   "start": 100,
+   "end": 102,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 16,
+   "start": 102,
+   "end": 104,
+   "pre": "transpose=1",
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 55,
+   "start": 104,
+   "end": 106,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 20,
+   "start": 106,
+   "end": 108,
+   "pre": "transpose=1",
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 43,
+   "start": 108,
+   "end": 110,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 24,
+   "start": 110,
+   "end": 113,
+   "pre": "transpose=1",
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 5,
+   "start": 113,
+   "end": 115,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 49,
+   "start": 115,
+   "end": 117,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 9,
+   "start": 117,
+   "end": 119,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 68,
+   "start": 119,
+   "end": 121,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 13,
+   "start": 121,
+   "end": 123,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 39,
+   "start": 123,
+   "end": 125,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 17,
+   "start": 125,
+   "end": 129,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 82,
+   "start": 129,
+   "end": 131,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 23,
+   "start": 131,
+   "end": 133,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 224,
+   "start": 133,
+   "end": 135,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 27,
+   "start": 135,
+   "end": 137,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 36,
+   "start": 137,
+   "end": 139,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 31,
+   "start": 139,
+   "end": 142,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 100,
+   "start": 142,
+   "end": 144,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 34,
+   "start": 144,
+   "end": 146,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 104,
+   "start": 146,
+   "end": 148,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 40,
+   "start": 148,
+   "end": 150,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 108,
+   "start": 150,
+   "end": 152,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 27,
+   "start": 152,
+   "end": 154,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 112,
+   "start": 154,
+   "end": 156,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 55,
+   "start": 156,
+   "end": 158,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 116,
+   "start": 158,
+   "end": 160,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 38,
+   "start": 160,
+   "end": 162,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 120,
+   "start": 162,
+   "end": 164,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 110,
+   "start": 164,
+   "end": 166,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 124,
+   "start": 166,
+   "end": 168,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 46,
+   "start": 168,
+   "end": 170,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 128,
+   "start": 170,
+   "end": 172,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 202,
+   "start": 172,
+   "end": 174,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 132,
+   "start": 174,
+   "end": 176,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 4,
+   "start": 176,
+   "end": 178,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 136,
+   "start": 178,
+   "end": 180,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 19,
+   "start": 180,
+   "end": 182,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 140,
+   "start": 182,
+   "end": 184,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 113,
+   "start": 184,
+   "end": 186,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 144,
+   "start": 186,
+   "end": 188,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 18,
+   "start": 188,
+   "end": 190,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 148,
+   "start": 190,
+   "end": 192,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 51,
+   "start": 192,
+   "end": 194,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 152,
+   "start": 194,
+   "end": 196,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 29,
+   "start": 196,
+   "end": 198,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 156,
+   "start": 198,
+   "end": 200,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 23,
+   "start": 200,
+   "end": 202,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 160,
+   "start": 202,
+   "end": 204,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 0,
+   "start": 204,
+   "end": 206,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 164,
+   "start": 206,
+   "end": 209,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 29,
+   "start": 209,
+   "end": 211,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 169,
+   "start": 211,
+   "end": 213,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 196,
+   "start": 213,
+   "end": 215,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 173,
+   "start": 215,
+   "end": 217,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 38,
+   "start": 217,
+   "end": 219,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 177,
+   "start": 219,
+   "end": 221,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 150,
+   "start": 221,
+   "end": 258,
+   "pre": null,
+   "kind": "s6_frame_precise"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 45,
+   "start": 258,
+   "end": 260,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 54,
+   "start": 260,
+   "end": 262,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 49,
+   "start": 262,
+   "end": 264,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 57,
+   "start": 264,
+   "end": 266,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 53,
+   "start": 266,
+   "end": 268,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-dm.mp4",
+   "src": "gits",
+   "offset": 0,
+   "start": 268,
+   "end": 270,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 57,
+   "start": 270,
+   "end": 272,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 79,
+   "start": 272,
+   "end": 274,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 61,
+   "start": 274,
+   "end": 276,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 63,
+   "start": 276,
+   "end": 278,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 65,
+   "start": 278,
+   "end": 280,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 51,
+   "start": 280,
+   "end": 283,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 70,
+   "start": 283,
+   "end": 285,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 31,
+   "start": 285,
+   "end": 287,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 74,
+   "start": 287,
+   "end": 289,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 201,
+   "start": 289,
+   "end": 291,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 78,
+   "start": 291,
+   "end": 293,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 2,
+   "start": 293,
+   "end": 295,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 82,
+   "start": 295,
+   "end": 298,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 24,
+   "start": 298,
+   "end": 300,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 87,
+   "start": 300,
+   "end": 302,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 2,
+   "start": 302,
+   "end": 304,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 91,
+   "start": 304,
+   "end": 306,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 34,
+   "start": 306,
+   "end": 308,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 95,
+   "start": 308,
+   "end": 310,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 16,
+   "start": 310,
+   "end": 313,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 100,
+   "start": 313,
+   "end": 315,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 71,
+   "start": 315,
+   "end": 317,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 104,
+   "start": 317,
+   "end": 319,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 35,
+   "start": 319,
+   "end": 321,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 108,
+   "start": 321,
+   "end": 323,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 190,
+   "start": 323,
+   "end": 325,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 40,
+   "start": 325,
+   "end": 327,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 194,
+   "start": 327,
+   "end": 330,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 87,
+   "start": 330,
+   "end": 332,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 199,
+   "start": 332,
+   "end": 334,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 10,
+   "start": 334,
+   "end": 336,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 203,
+   "start": 336,
+   "end": 338,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/anime.mp4",
+   "src": "anime",
+   "offset": 208,
+   "start": 338,
+   "end": 340,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 207,
+   "start": 340,
+   "end": 342,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 6,
+   "start": 342,
+   "end": 344,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 211,
+   "start": 344,
+   "end": 346,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/bw-hands-dm.mp4",
+   "src": "hands",
+   "offset": 43,
+   "start": 346,
+   "end": 348,
+   "pre": "transpose=1",
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 215,
+   "start": 348,
+   "end": 350,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 188,
+   "start": 350,
+   "end": 352,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 219,
+   "start": 352,
+   "end": 354,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 204,
+   "start": 354,
+   "end": 356,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 223,
+   "start": 356,
+   "end": 358,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 41,
+   "start": 358,
+   "end": 360,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 227,
+   "start": 360,
+   "end": 362,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 84,
+   "start": 362,
+   "end": 364,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 231,
+   "start": 364,
+   "end": 366,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 4,
+   "start": 366,
+   "end": 368,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 235,
+   "start": 368,
+   "end": 370,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 190,
+   "start": 370,
+   "end": 372,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/october-dream.mp4",
+   "src": "october",
+   "offset": 31,
+   "start": 372,
+   "end": 374,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 194,
+   "start": 374,
+   "end": 376,
+   "pre": null,
+   "kind": "home"
+  },
+  {
+   "clip": "sources/conveniencestore-dm.mp4",
+   "src": "store",
+   "offset": 184,
+   "start": 376,
+   "end": 378,
+   "pre": null,
+   "kind": "guest"
+  },
+  {
+   "clip": "sources/gits-nature-dm.mp4",
+   "src": "nature",
+   "offset": 198,
+   "start": 378,
+   "end": 381,
+   "pre": null,
+   "kind": "home"
+  }
+ ],
+ "sections": {
+  "2": {
+   "span": [
+    30,
+    94
+   ],
+   "home": "store",
+   "home_offset": 120
+  },
+  "3": {
+   "span": [
+    94,
+    113
+   ],
+   "home": "hands",
+   "home_offset": 8
+  },
+  "4": {
+   "span": [
+    113,
+    142
+   ],
+   "home": "gits",
+   "home_offset": 5
+  },
+  "5": {
+   "span": [
+    142,
+    221
+   ],
+   "home": "nature",
+   "home_offset": 100
+  },
+  "7": {
+   "span": [
+    258,
+    323
+   ],
+   "home": "october",
+   "home_offset": 45
+  },
+  "8": {
+   "span": [
+    323,
+    370
+   ],
+   "home": "store",
+   "home_offset": 190
+  },
+  "9": {
+   "span": [
+    370,
+    381
+   ],
+   "home": "nature",
+   "home_offset": 190
+  }
+ },
+ "s6": {
+  "row_span": [
+   221,
+   258
+  ],
+  "pieces": [
+   {
+    "film": [
+     6630,
+     6720
+    ],
+    "src": "anime",
+    "src_frame": 4500,
+    "note": "zoneA home anime clock 150-153",
+    "pre": null
+   },
+   {
+    "film": [
+     6720,
+     6810
+    ],
+    "src": "gits",
+    "src_frame": 60,
+    "note": "zoneA guest gits @2",
+    "pre": null
+   },
+   {
+    "film": [
+     6810,
+     6900
+    ],
+    "src": "anime",
+    "src_frame": 4680,
+    "note": "zoneA home anime clock 156-159",
+    "pre": null
+   },
+   {
+    "film": [
+     6900,
+     6990
+    ],
+    "src": "hands",
+    "src_frame": 1380,
+    "note": "zoneA guest hands",
+    "pre": "transpose=1"
+   },
+   {
+    "film": [
+     6990,
+     7082
+    ],
+    "src": "anime",
+    "src_frame": 4860,
+    "note": "zoneA home anime clock 162-165.07",
+    "pre": null
+   },
+   {
+    "film": [
+     7082,
+     7311
+    ],
+    "src": "anime",
+    "src_frame": 4952,
+    "note": "KEPT praised spans (char1+Mugen)",
+    "pre": null
+   },
+   {
+    "film": [
+     7311,
+     7431
+    ],
+    "src": "nature",
+    "src_frame": 2790,
+    "note": "KEPT v2 char3 replacement (nature @93)",
+    "pre": null
+   },
+   {
+    "film": [
+     7431,
+     7533
+    ],
+    "src": "nature",
+    "src_frame": 1920,
+    "note": "NEW Jin close-up replacement (nature @64, first 102 frames)",
+    "pre": null
+   },
+   {
+    "film": [
+     7533,
+     7635
+    ],
+    "src": "store",
+    "src_frame": 2820,
+    "note": "zoneC trio replacement part1 (store)",
+    "pre": null
+   },
+   {
+    "film": [
+     7635,
+     7740
+    ],
+    "src": "october",
+    "src_frame": 840,
+    "note": "zoneC trio replacement part2 (cat)",
+    "pre": null
+   }
+  ]
+ },
+ "used": {
+  "anime": [
+   [
+    2,
+    4
+   ],
+   [
+    14,
+    16
+   ],
+   [
+    27,
+    29
+   ],
+   [
+    51,
+    53
+   ],
+   [
+    54,
+    56
+   ],
+   [
+    56,
+    58
+   ],
+   [
+    165,
+    173
+   ],
+   [
+    196,
+    198
+   ],
+   [
+    200,
+    202
+   ],
+   [
+    202,
+    204
+   ],
+   [
+    208,
+    210
+   ],
+   [
+    210,
+    212
+   ],
+   [
+    224,
+    226
+   ]
+  ],
+  "hands": [
+   [
+    1,
+    3
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    6,
+    8
+   ],
+   [
+    8,
+    27
+   ],
+   [
+    27,
+    29
+   ],
+   [
+    29,
+    31
+   ],
+   [
+    31,
+    33
+   ],
+   [
+    34,
+    36
+   ],
+   [
+    36,
+    38
+   ],
+   [
+    38,
+    40
+   ],
+   [
+    40,
+    42
+   ],
+   [
+    43,
+    45
+   ],
+   [
+    46,
+    49
+   ],
+   [
+    49,
+    51
+   ],
+   [
+    51,
+    54
+   ],
+   [
+    55,
+    57
+   ],
+   [
+    57,
+    59
+   ],
+   [
+    59,
+    61
+   ]
+  ],
+  "store": [
+   [
+    18,
+    20
+   ],
+   [
+    24,
+    26
+   ],
+   [
+    29,
+    31
+   ],
+   [
+    35,
+    37
+   ],
+   [
+    40,
+    42
+   ],
+   [
+    46,
+    48
+   ],
+   [
+    63,
+    65
+   ],
+   [
+    82,
+    84
+   ],
+   [
+    94,
+    97
+   ],
+   [
+    120,
+    184
+   ],
+   [
+    184,
+    186
+   ],
+   [
+    190,
+    237
+   ]
+  ],
+  "gits": [
+   [
+    0,
+    2
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    5,
+    34
+   ],
+   [
+    34,
+    36
+   ],
+   [
+    36,
+    38
+   ],
+   [
+    38,
+    40
+   ]
+  ],
+  "nature": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    6,
+    8
+   ],
+   [
+    16,
+    19
+   ],
+   [
+    24,
+    48
+   ],
+   [
+    49,
+    51
+   ],
+   [
+    55,
+    57
+   ],
+   [
+    64,
+    68
+   ],
+   [
+    68,
+    70
+   ],
+   [
+    71,
+    73
+   ],
+   [
+    79,
+    81
+   ],
+   [
+    82,
+    84
+   ],
+   [
+    84,
+    86
+   ],
+   [
+    87,
+    89
+   ],
+   [
+    89,
+    91
+   ],
+   [
+    93,
+    97
+   ],
+   [
+    100,
+    179
+   ],
+   [
+    183,
+    185
+   ],
+   [
+    188,
+    190
+   ],
+   [
+    190,
+    201
+   ],
+   [
+    201,
+    203
+   ],
+   [
+    204,
+    206
+   ]
+  ],
+  "october": [
+   [
+    0,
+    2
+   ],
+   [
+    7,
+    9
+   ],
+   [
+    10,
+    12
+   ],
+   [
+    13,
+    19
+   ],
+   [
+    19,
+    21
+   ],
+   [
+    21,
+    23
+   ],
+   [
+    23,
+    25
+   ],
+   [
+    28,
+    31
+   ],
+   [
+    31,
+    33
+   ],
+   [
+    34,
+    36
+   ],
+   [
+    39,
+    41
+   ],
+   [
+    41,
+    43
+   ],
+   [
+    43,
+    45
+   ],
+   [
+    45,
+    110
+   ],
+   [
+    110,
+    112
+   ],
+   [
+    113,
+    115
+   ],
+   [
+    115,
+    117
+   ]
+  ]
+ }
+}

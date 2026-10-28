@@ -1,0 +1,110 @@
+{
+ "33": {
+  "file": "sec33.mp4",
+  "frames": 60,
+  "sha256": "3b3e24ca3e0363a7182f6558ca65d95d9a6c57dbf950283869d65048be9eb35b",
+  "span": [
+   94,
+   96
+  ],
+  "src": "hands",
+  "offset": 8,
+  "kind": "home"
+ },
+ "34": {
+  "file": "sec34.mp4",
+  "frames": 60,
+  "sha256": "32954ea36e67f85c5388c3f8bf9bc86f7cab01f1bd7a81bd3d4f4e4d969c2356",
+  "span": [
+   96,
+   98
+  ],
+  "src": "anime",
+  "offset": 56,
+  "kind": "guest"
+ },
+ "35": {
+  "file": "sec35.mp4",
+  "frames": 60,
+  "sha256": "976a7d8e7d5512cd0f801191d37186481de115d1720771324354a1a62fdbadfb",
+  "span": [
+   98,
+   100
+  ],
+  "src": "hands",
+  "offset": 12,
+  "kind": "home"
+ },
+ "36": {
+  "file": "sec36.mp4",
+  "frames": 60,
+  "sha256": "ab9093bf95fb580c9c9fc3baa32b313fe08ca4e8659f39da7eebc6496ff5aa24",
+  "span": [
+   100,
+   102
+  ],
+  "src": "gits",
+  "offset": 36,
+  "kind": "guest"
+ },
+ "37": {
+  "file": "sec37.mp4",
+  "frames": 60,
+  "sha256": "e1176e7903a4ca34bc09bf5d613786e4bd623640743cb9dd6ae89900311ae148",
+  "span": [
+   102,
+   104
+  ],
+  "src": "hands",
+  "offset": 16,
+  "kind": "home"
+ },
+ "38": {
+  "file": "sec38.mp4",
+  "frames": 60,
+  "sha256": "57b36a3b67ed9cd4c86268b32c5b44e5c7aab012168976834fa8992029db0348",
+  "span": [
+   104,
+   106
+  ],
+  "src": "nature",
+  "offset": 55,
+  "kind": "guest"
+ },
+ "39": {
+  "file": "sec39.mp4",
+  "frames": 60,
+  "sha256": "dd0a5a6499dfee8755b62fba18b7155e5ce38d5eeac717ae361c6d5a85007d92",
+  "span": [
+   106,
+   108
+  ],
+  "src": "hands",
+  "offset": 20,
+  "kind": "home"
+ },
+ "40": {
+  "file": "sec40.mp4",
+  "frames": 60,
+  "sha256": "d4d61e66620e5baab62e8b79767a67984b776294cb1ee1e2b8030a11ee7c3ccd",
+  "span": [
+   108,
+   110
+  ],
+  "src": "october",
+  "offset": 43,
+  "kind": "guest"
+ },
+ "41": {
+  "file": "sec41.mp4",
+  "frames": 90,
+  "sha256": "49c30ef0ba3e03eb123be175dde0e2528f828c51b594c9acd2444334b0393bb2",
+  "span": [
+   110,
+   113
+  ],
+  "src": "hands",
+  "offset": 24,
+  "kind": "home"
+ }
+}
