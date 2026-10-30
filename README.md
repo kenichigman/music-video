@@ -162,6 +162,37 @@ TD's Python API (`td_ref.md` documents the verified operator/member set) and
 a Linux numpy renderer (`palimpsest_render_linux.py`) implementing identical
 shader logic for headless batch rendering.
 
+## Effects library
+
+The newer effects work is organized by effect, one shelf per
+module. Each shelf states what it contains, what it does not,
+and how to get a first result running:
+
+- [`datamosh/`](datamosh/) — the codec-smear grammar and the
+  seam-placement tool: hard datamosh carries at chosen
+  boundaries, protected hard cuts elsewhere.
+- [`pseudo-graph/`](pseudo-graph/) — pseudo-graph
+  displacement: an object graph locked onto the unedited
+  footage and a second graph that tracks the datamosh
+  itself, composited above the moshed picture.
+- [`fusion/`](fusion/) — abstract × structured fusion:
+  oscillation-driven cross-blending between two visual
+  worlds. Working and validated at preview scale; parked
+  before full-length tuning, and labelled that way in its
+  README.
+- [`blob-track-derivation/`](blob-track-derivation/) — a
+  clean-room numpy reimplementation of the blob-tracking
+  front-end, with its pre-registered spec and the full
+  validation report (passes and failures alike).
+- [`agentic-touchdesigner-harness/`](agentic-touchdesigner-harness/)
+  — the file-bridge pattern that lets an external agent
+  author and render TouchDesigner networks inside a session
+  a human launches, plus the effect-pool workspace layout.
+
+The established pipeline above predates the shelf layout and
+still lives at the repository root and in its production
+folders; the shelves are where new effects land.
+
 ## What's not here
 
 No source footage or audio — only the code and one finished render.
